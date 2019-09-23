@@ -5,3 +5,6 @@ So far I can **kinda** code:
 - Java
 - C
 - React
+
+#### Stan Seventeen <3
+![Seventeen HIt](seventeenHit.jpg)
